@@ -1,2 +1,2 @@
-# merge-conflict1
-merge-conflict1
+# Practice a merge conflict
+We will practice a merge conflict
